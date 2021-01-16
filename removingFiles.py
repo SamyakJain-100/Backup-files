@@ -1,4 +1,3 @@
-# importing the required modules
 import os
 import shutil
 import time
